@@ -5,6 +5,7 @@ public class Main {
         Scanner myScan = new Scanner(System.in);
         System.out.println("Emter a 4 digit year")
         int year = myScan.nextInt();
+        System.out.println("test");
         /* using MATHEMATICAL operations (no Strings), split a year
         Example: if the user enters 1989, the output would be:
         1
